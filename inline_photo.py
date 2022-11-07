@@ -1,4 +1,4 @@
-api_token = "5640635635:AAGiW0hipGmOLNdOay1HvGKwThyv4NcO2ps"
+
 from aiogram import Bot,Dispatcher,executor,types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
